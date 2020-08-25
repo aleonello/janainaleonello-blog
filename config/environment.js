@@ -25,7 +25,7 @@ module.exports = function(environment) {
 
     blog: {
       title: 'Janaína Leonello',
-      description: 'Static Blog System - Built with Ember',
+      description: 'Soluções para o seu dia-a-dia',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
