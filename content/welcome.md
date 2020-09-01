@@ -1,49 +1,43 @@
 ---
-title: Welcome to empress-blog
+title: Secretária Remota
 image: /images/welcome.jpg
 imageMeta:
   attribution:
   attributionLink:
 featured: true
 authors:
-  - ghost
-date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
+  - janaína
+date: Sat Aug 29 2020 21:29:20 GMT-0300 (BRT)
 tags:
-  - getting-started
+  - secretaria-remota
 ---
 
-Hey! Welcome to empress-blog, it's great to have you :)
+Olá! Bem vindo(a) à minha página, é muito bom ter você aqui! :)
 
-We know that first impressions are important, so we've populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
+### Sobre mim  
 
+<p style="text-align: justify">Secretária executiva, compradora e professora de espanhol por anos, hoje tenho minha empresa dedicada a resolver seus problemas e demandas com rapidez, criatividade e transparência.</p>
+<p style="text-align: justify">Imagine como sua vida seria diferente se você tivesse alguém para lhe ajudar a resolver as tarefas e pendências que consomem seu dinheiro, tempo, foco e energia do dia a dia.</p>
 
-### There are a few things that you should know up-front:
+### Veja alguns dos itens em que posso te ajudar:  
 
-1. empress-blog is designed to be a static site version of the amazing [Ghost blogging platform](https://ghost.org/)
+1. Atividades pessoais sobre demanda: como comprar um presente, organizar uma festa entre outros;
+1. Contato com clientes para agendamentos e avisos;
+1. Controle de agenda e e-mails;
+1. Controle de contas (contas a pagar e receber, elaboração de planilhas de controle de gastos e orçamentos);
+1. Cotação com fornecedores (cotação de produtos ou serviços variados: seguros, buffet, planos de saúde, escolas, cursos e serviços terceirizados);
+1. Cotações e compras em geral;
+1. Elaboração de pesquisa de satisfação de clientes;
+1. Elaboração de planilhas;
+1. Elaboração de relatório para controles: metas, financeiro, leads etc;
+1. Elaboração e revisão de textos;
+1. Gerenciamento de redes sociais (confecção de post e acompanhamento das redes sociais);
+1. Organização de documentos; hospedagens etc;
+1. Organização de eventos, cursos e palestra;
+1. Pesquisas em geral (produtos, serviços, viagens, locais, instituições, preços, prazos de entrega, fornecedores);
+1. Programação de viagens;
+1. R&S (Recrutamento e Seleção);
+1. Tarefas pessoais (pagamentos, agendamento de consultas, reuniões, exames, atualização e cancelamento de serviços – internet, operadora de celular, TV por assinatura, reserva de restaurantes, compras virtuais, pesquisa de preços e fornecedores);
+1. Tradução espanhol e inglês.
 
-1. empress-blog is designed for developers who know how to deploy a static site (folder of html files and assets) using something like S3 or even just on NGINX.
-
-1. If you are slightly less tech savvy or if you want to manage your blog outside of just a set of files in a git repo we highly recommend signing up for [Ghost](https://ghost.org/pricing/)
-
-### Quick Start
-
-```bash
-# if you don't have ember-cli installed already
-npm install -g ember-cli
-
-ember new super-blog
-cd super-blog
-
-ember install empress-blog empress-blog-casper-template
-```
-
-It will ask you if you want to update the `index.html` file and you should say yes 👍
-
-If you want to see the blog system running on your local machine just run `npm start` and you will
-be able to navigate to  [http://localhost:4200](http://localhost:4200) to see the blog in action.
-
----
-
-The main thing you'll want to read about next is probably: [editing files with empress-blog](/the-editor/).
-
-Once you're done reading, you can simply delete the default **Ghost** user from your team to remove all of these introductory posts!
+> Talvez sua demanda não esteja listada aqui, porém não hesite em perguntar, como sou assistente pessoal sob demanda, verificarei sua necessidade.

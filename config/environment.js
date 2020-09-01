@@ -28,17 +28,14 @@ module.exports = function (environment) {
       description: 'Soluções para o seu dia-a-dia',
       coverImage: '/images/blog-cover.jpg',
 
-      navigation: [
-        {
-          label: 'Home',
-          route: 'index',
-        },
-        {
-          label: 'Built by Chris Manson',
-          route: 'page',
-          id: 'chris-manson',
-        },
-      ],
+      navigation: [{
+        label: 'Home',
+        route: 'index'
+      }, {
+        label: 'Contato',
+        route: 'page',
+        id: 'contato'
+      }]
     },
   };
 
