@@ -32,9 +32,9 @@ module.exports = function(environment) {
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
+        label: 'Contato',
         route: 'page',
-        id: 'chris-manson'
+        id: 'contato'
       }]
     },
 
