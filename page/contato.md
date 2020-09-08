@@ -13,6 +13,8 @@ tags:
 
 Entre em contato comigo através dos canais abaixo:
 
+* [whatsapp: +55 (19) 98814-5032](https://wa.me/message/ITYAHI3XXNRDC1)
 * [instagram.com/janaresolve](https://www.instagram.com/janaresolve)  
 * [facebook.com/janaresolve](https://www.facebook.com/janaresolve)
-* [whatsapp (clique aqui ou anote o número +55 (19) 98814-5032)](https://wa.me/message/ITYAHI3XXNRDC1)
+* [telefone: +55 (19) 98814-5032](javascript:void(0))
+* [e-mail: contato@janaresolve.com.br](mailto:contato@janaresolve.com.br)
