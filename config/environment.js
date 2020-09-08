@@ -25,7 +25,7 @@ module.exports = function(environment) {
 
     blog: {
       title: 'Jana Resolve',
-      description: 'Soluções para o seu dia-a-dia',
+      description: 'Secretária Remota | Recrutamento e Seleção | Professora de Espanhol',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
