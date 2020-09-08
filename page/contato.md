@@ -18,3 +18,4 @@ Entre em contato comigo através dos canais abaixo:
 * [facebook.com/janaresolve](https://www.facebook.com/janaresolve)
 * [telefone: +55 (19) 98814-5032](javascript:void(0))
 * [e-mail: contato@janaresolve.com.br](mailto:contato@janaresolve.com.br)
+* [baixe meu cartão interativo e compartilhe](/cartao_interativo.pdf)
