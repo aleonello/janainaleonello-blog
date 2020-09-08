@@ -24,7 +24,7 @@ module.exports = function (environment) {
     },
 
     blog: {
-      title: 'Janaína Leonello',
+      title: 'Jana Resolve',
       description: 'Soluções para o seu dia-a-dia',
       coverImage: '/images/blog-cover.jpg',
 
