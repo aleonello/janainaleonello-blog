@@ -8,4 +8,4 @@ twitter:
 facebook:
 location: Mogi-Mirim, São-Paulo, Brasil
 ---
-Janaína Leonello é criadora do Jana Resolve, atua como secretária remota, professora de espanhol e trabalha também com pinturas artísticas.
+Janaína Leonello trabalha como professora de espanhol, secretária remota e também com pinturas artísticas.
