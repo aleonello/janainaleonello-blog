@@ -24,8 +24,8 @@ module.exports = function (environment) {
     },
 
     blog: {
-      title: 'Jana Resolve - Secretária Remota',
-      description: 'Recrutamento e Seleção | Professora de Espanhol',
+      title: 'Jana Leonello - Professora de Espanhol',
+      description: 'Secretária Remota | Futura Psicóloga de Surdo',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
