@@ -24,8 +24,8 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'Jana Leonello - Professora de Espanhol',
-      description: 'Secretária Remota | Futura Psicóloga de Surdo',
+      title: 'Jana Leonello - professora de espanhol',
+      description: 'Futura psicóloga especializada em atendimento a surdos',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{

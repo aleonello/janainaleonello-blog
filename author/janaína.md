@@ -8,4 +8,4 @@ twitter:
 facebook:
 location: Mogi-Mirim, São-Paulo, Brasil
 ---
-Janaína Leonello trabalha como professora de espanhol, secretária remota e também com pinturas artísticas.
+Janaína Leonello trabalha como professora de espanhol e também com pinturas artísticas.
