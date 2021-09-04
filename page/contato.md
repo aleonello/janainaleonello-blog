@@ -14,8 +14,6 @@ tags:
 Entre em contato comigo através dos canais abaixo:
 
 * [whatsapp: +55 (19) 98814-5032](https://wa.me/message/ITYAHI3XXNRDC1)
-* [instagram.com/janaresolve](https://www.instagram.com/janaresolve)  
-* [facebook.com/janaresolve](https://www.facebook.com/janaresolve)
+* [instagram.com/janaina.leonello](https://www.instagram.com/janaina.leonello)
 * [telefone: +55 (19) 98814-5032](javascript:void(0))
-* [e-mail: contato@janaresolve.com.br](mailto:contato@janaresolve.com.br)
-* [baixe meu cartão interativo e compartilhe](/cartao_interativo.pdf)
+* [e-mail: contato@janainaleonello.com.br](mailto:contato@janainaleonello.com.br)

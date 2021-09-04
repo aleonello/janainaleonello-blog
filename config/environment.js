@@ -24,7 +24,7 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'Jana Leonello - professora de espanhol',
+      title: 'Janaína Leonello - professora de espanhol',
       description: 'Futura psicóloga especializada em atendimento a surdos',
       coverImage: '/images/blog-cover.jpg',
 
