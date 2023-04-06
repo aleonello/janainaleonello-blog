@@ -22,5 +22,3 @@ Olá! Bem vindo(a) à minha página, é muito bom ter você aqui!
 * Sou formada em Letras Português/Espanhol.
 * Tenho proficiência e fluência no idioma C2 Nível Superior do DELE - Instituto Miguel de Cervantes de Espanha.
 * Morei no México por 2 anos, onde tive a imersão no idioma e em sua cultura.
-
-`Em breve estarei lançando meu curso online onde você poderá assistir às aulas na hora que quiser e quando quiser, aguarde!!!`
