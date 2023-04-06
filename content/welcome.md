@@ -1,5 +1,5 @@
 ---
-title: Professora de Espanhol
+title: Estagiária em Psicologia
 image: /images/welcome.jpg
 imageMeta:
   attribution:
@@ -7,14 +7,14 @@ imageMeta:
 featured: true
 authors:
   - janaína
-date: Sat Aug 29 2020 21:29:20 GMT-0300 (BRT)
+date: Wed Apr 5 2023 21:46:20 GMT-0300 (BRT)
 tags:
   - espanhol
 ---
 
 Olá! Bem vindo(a) à minha página, é muito bom ter você aqui!
 
-<p style="text-align: justify">Sou professora de espanhol há 15 anos e minha metodologia de ensino é personalizada, focada nas necessidades e preferências do aluno, na qual uso muitos recursos online, filmes, áudios, exercícios, games etc.</p>
+<p style="text-align: justify">Sou estagiária em psicologia e atuo como consultora em educação escolar e trabalho como professora de espanhol há 15 anos e minha metodologia de ensino é personalizada, focada nas necessidades e preferências do aluno, na qual uso muitos recursos online, filmes, áudios, exercícios, games etc.</p>
 
 ### Segue abaixo algumas de minhas qualificações:
 
