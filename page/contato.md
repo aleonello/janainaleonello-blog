@@ -7,14 +7,11 @@ imageMeta:
 featured: true
 authors:
   - janaína
-date: Sat Aug 29 2020 20:27:33 GMT-0300 (BRT)
 tags:
 ---
 
-Entre em contato comigo através dos canais abaixo:
+### Agende seu horário
 
-* [whatsapp: +55 (19) 98814-5032](https://wa.me/message/ITYAHI3XXNRDC1)
-* [instagram.com/janaina.leonello](https://www.instagram.com/janaina.leonello)
-* [linkedin.com/in/janainaleonello](https://www.linkedin.com/in/janainaleonello)
-* [telefone: +55 (19) 98814-5032](javascript:void(0))
-* [e-mail: contato@janainaleonello.com.br](mailto:contato@janainaleonello.com.br)
+Se você está procurando apoio para si mesmo, seu filho ou filha, ou se é parte da comunidade surda, estou aqui para ajudar. Por favor, sinta-se à vontade para agendar um horário comigo. Estou a disposição para acompanhá-lo em sua jornada para o crescimento e auto-descoberta.
+
+[Clique aqui para ser direcionado ao WhatsApp](https://wa.me/+5519988145032)

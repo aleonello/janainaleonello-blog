@@ -24,8 +24,8 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'Janaína Leonello - Psicóloga Clínica',
-      description: 'Psicóloga Clínica e Inclusiva',
+      title: 'Janaína Leonello - Psicóloga Clínica e Inclusiva',
+      description: 'CRP: 06/197830',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
