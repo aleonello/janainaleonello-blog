@@ -24,8 +24,8 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'Janaína Leonello - estagiária em psicologia',
-      description: 'Futura psicóloga especializada em atendimento a surdos',
+      title: 'Janaína Leonello - Psicóloga Clínica',
+      description: 'Psicóloga Clínica e Inclusiva',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{

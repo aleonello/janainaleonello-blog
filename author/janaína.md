@@ -8,4 +8,4 @@ twitter:
 facebook:
 location: Mogi-Mirim, São-Paulo, Brasil
 ---
-Janaína Leonello atua como estagiária em psicologia e como consultora em educação escolar e trabalha como professora de espanhol.
+Janaína Leonello atua como psicóloga clínica.
