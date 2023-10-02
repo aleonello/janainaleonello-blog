@@ -1,38 +1,47 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    {{content-for "head"}}
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link integrity="" rel="stylesheet" href="{{rootURL}}assets/vendor.css">
-    <link integrity="" rel="stylesheet" href="{{rootURL}}assets/empress-blog-casper.css">
+  {{content-for "head"}}
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-176829771-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+  <link integrity="" rel="stylesheet" href="{{rootURL}}assets/vendor.css">
+  <link integrity="" rel="stylesheet" href="{{rootURL}}assets/empress-blog-casper.css">
 
-      gtag('config', 'UA-176829771-1');
-    </script>
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WJF5XZ76');</script>
+  <!-- End Google Tag Manager -->
 
+  {{content-for "head-footer"}}
+  <meta name="keywords"
+    content="ajuda psicológica,ajuda psicologica,ansiedade,atendimendo psicológico,atendimento psicologico,auto conhecimento,auto estima,auto mutilacao,auto mutilação,autoestima,bilingue,bipolar,bipolaridade,borderline,criança,depressao,depressão,libras,psicóloga campinas,psicologa educação,psicóloga em campinas,psicóloga infantil,psicologa libras,psicologa online,psicóloga vinhedo,psicóloga,psicologa,psicóloga,psicologia inclusiva,psicologia infantil,psicologia libras,psicólogo campinas,psicologo educação,psicólogo em campinas,psicólogo infantil,psicologo libras,psicologo online,psicólogo vinhedo,psicólogo,psicologo,psicólogo,psicoterapia,psychologist,saude mental,saúde mental,stress,surdo,terapeuta campinas,terapeuta em campinas,terapeuta,terapia campinas,terapia em campinas,terapia online,terapia" />
+  <meta name="author" content="Janaína Leonello" />
+  <meta name="copyright" content="Janaína Leonello" />
+  <meta name="robots" content="index,follow" />
+</head>
 
-    {{content-for "head-footer"}}
-    <meta name="keywords" content="ajuda psicológica,ajuda psicologica,ansiedade,atendimendo psicológico,atendimento psicologico,auto conhecimento,auto estima,auto mutilacao,auto mutilação,autoestima,bilingue,bipolar,bipolaridade,borderline,criança,depressao,depressão,libras,psicóloga campinas,psicologa educação,psicóloga em campinas,psicóloga infantil,psicologa libras,psicologa online,psicóloga vinhedo,psicóloga,psicologa,psicóloga,psicologia inclusiva,psicologia infantil,psicologia libras,psicólogo campinas,psicologo educação,psicólogo em campinas,psicólogo infantil,psicologo libras,psicologo online,psicólogo vinhedo,psicólogo,psicologo,psicólogo,psicoterapia,psychologist,saude mental,saúde mental,stress,surdo,terapeuta campinas,terapeuta em campinas,terapeuta,terapia campinas,terapia em campinas,terapia online,terapia"/>
-    <meta name="author" content="Janaína Leonello"/>
-    <meta name="copyright" content="Janaína Leonello"/>
-    <meta name="robots" content="index,follow"/>
-  </head>
-  <body>
-    {{content-for "body"}}
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJF5XZ76" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
-    <script src="{{rootURL}}assets/vendor.js"></script>
-    <script src="{{rootURL}}assets/empress-blog-casper.js"></script>
+  {{content-for "body"}}
 
-    {{content-for "body-footer"}}
-  </body>
+  <script src="{{rootURL}}assets/vendor.js"></script>
+  <script src="{{rootURL}}assets/empress-blog-casper.js"></script>
+
+  {{content-for "body-footer"}}
+</body>
+
 </html>
