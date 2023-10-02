@@ -1,5 +1,5 @@
 ---
-title: Estagiária em Psicologia
+title: Psicóloga Clínica e Inclusiva
 image: /images/welcome.jpg
 imageMeta:
   attribution:
@@ -7,18 +7,18 @@ imageMeta:
 featured: true
 authors:
   - janaína
-date: Wed Apr 5 2023 21:46:20 GMT-0300 (BRT)
+date: Sat Oct 01 2023 20:27:20 GMT-0300 (BRT)
 tags:
-  - espanhol
+  - psicologia
 ---
 
-Olá! Bem vindo(a) à minha página, é muito bom ter você aqui!
+![Janaína Leonello](/images/jana-apresentacao.jpg)
 
-<p style="text-align: justify">Sou estagiária em psicologia e atuo como consultora em educação escolar e trabalho como professora de espanhol há 15 anos e minha metodologia de ensino é personalizada, focada nas necessidades e preferências do aluno, na qual uso muitos recursos online, filmes, áudios, exercícios, games etc.</p>
+<p style="text-align: justify">Olá, sou psicóloga clínica apaixonada pela promoção da inclusão e pelo bem-estar de todas as pessoas, independentemente de suas diferenças.
 
-### Segue abaixo algumas de minhas qualificações:
+Minha missão é ajudar você a superar os sofrimentos e dificulades, proporcionando um ambiente terapêutico onde você possa desenvolver e se sentir cada vez mais respeitado e valorizado.
 
-* Tenho 10 anos de experiência em escolas como o Yázigi e CNA.
-* Sou formada em Letras Português/Espanhol.
-* Tenho proficiência e fluência no idioma C2 Nível Superior do DELE - Instituto Miguel de Cervantes de Espanha.
-* Morei no México por 2 anos, onde tive a imersão no idioma e em sua cultura.
+Ofereço um espaço seguro e acolhedor para crianças, adolescentes e adultos, permitindo que explorem o autoconhecimento, e que assim, possam suas descobrir suas habilidades e potenciais.</p>
+
+Janaína Leonello  
+Psicóloga Clínica
