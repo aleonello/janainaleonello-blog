@@ -1,3 +1,7 @@
 .site-header-content {
     color: #000 !important;
 }
+
+.nav li a {
+    color: #000 !important;
+}

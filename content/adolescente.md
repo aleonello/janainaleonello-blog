@@ -1,6 +1,6 @@
 ---
 title: Adolescente
-image:
+image: /images/adolescente.png
 imageMeta:
   attribution:
   attributionLink:

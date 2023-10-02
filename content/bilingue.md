@@ -1,6 +1,6 @@
 ---
 title: Bilíngue
-image:
+image: /images/bilingue.png
 imageMeta:
   attribution:
   attributionLink:

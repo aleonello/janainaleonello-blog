@@ -12,6 +12,8 @@ tags:
   - psicologia
 ---
 
+![Janaína Leonello](/images/jana-apresentacao.jpg)
+
 <p style="text-align: justify">Olá, sou psicóloga clínica apaixonada pela promoção da inclusão e pelo bem-estar de todas as pessoas, independentemente de suas diferenças.
 
 Minha missão é ajudar você a superar os sofrimentos e dificulades, proporcionando um ambiente terapêutico onde você possa desenvolver e se sentir cada vez mais respeitado e valorizado.

@@ -1,6 +1,6 @@
 ---
 title: Atendimento para crianças
-image:
+image: /images/crianca.png
 imageMeta:
   attribution:
   attributionLink:

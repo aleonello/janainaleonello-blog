@@ -6,6 +6,6 @@ cover:
 website:
 twitter:
 facebook:
-location: Mogi-Mirim, São-Paulo, Brasil
+location: Campinas, São-Paulo, Brasil
 ---
 Janaína Leonello atua como psicóloga clínica.

@@ -1,6 +1,6 @@
 ---
 title: Adulto
-image:
+image: /images/adulto.png
 imageMeta:
   attribution:
   attributionLink:
