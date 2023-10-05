@@ -1,5 +1,5 @@
 ---
-title: Atendimento para crianças
+title: Criança
 image: /images/crianca.png
 imageMeta:
   attribution:
@@ -7,6 +7,7 @@ imageMeta:
 featured: true
 authors: 
   - janaína
+date: Sat Oct 01 2023 20:17:20 GMT-0300 (BRT)
 tags:
   - new
   - psicologia

@@ -7,6 +7,7 @@ imageMeta:
 featured: true
 authors: 
   - janaína
+date: Sat Oct 01 2023 19:57:20 GMT-0300 (BRT)
 tags:
   - new
   - psicologia
